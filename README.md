@@ -96,7 +96,7 @@ Concretamente para esta refactorización de código no lo he usado.
 Son nuevas formas de programación que resultan muy útiles, aunque actualmente no lo haya usado, sí que facilitan el trabajo.
 
 
-**- ¿Qué piensas del rendimiento de la aplicación? **
+**- ¿Qué piensas del rendimiento de la aplicación?**
 
 Es una aplicación bastante sencilla, sin complejidad alguna más que de entender la API externa usada.
 Aunque he de resaltar que para ser sencilla se complica mucho debido a los endpoints que ofrece la API.
@@ -115,7 +115,7 @@ Una de las soluciones idóneas sería almacenar, ya sea en base de datos, memori
 La segunda opción, sería almacenar también la respuesta del tiempo de una ciudad para un día (y demás días) específico. Haciendo uso de esta lista en vez de hacer llamadas continuas al endpoint.
 
 
-**- ¿Cuánto tiempo has invertido para implementar la solución? **
+**- ¿Cuánto tiempo has invertido para implementar la solución?**
 
 3 horas
 
