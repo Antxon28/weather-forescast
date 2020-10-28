@@ -1,9 +1,6 @@
 package training.weather;
 
 import java.io.IOException;
-import java.time.LocalDate;
-import java.time.ZoneId;
-import java.util.Date;
 
 import org.junit.Assert;
 import org.junit.Before;
